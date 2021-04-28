@@ -1,0 +1,14 @@
+Resource,Type,Capacity
+LG3.1,Lecture Room,100
+LG3.2,Lecture Room,100
+LG3.3,Lecture Room,100
+LG3.4,Lecture Room,100
+LG4.3,Lecture Room,100
+LG4.5,Lecture Room,100
+CSELab Zone1,Computer Lab,20
+CSELab Zone2&3,Computer Lab,40
+CSELab Zone4&5,Computer Lab,40
+Annex3.1,Computer Lab,60
+CCFL,Computer Lab,50
+LG0.1,Communication Lab,50
+CSELab Zone0,Hardware Lab,50

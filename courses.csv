@@ -1,0 +1,20 @@
+Code,Name,Contact Slots,Course Type,Resource Type,Association
+M(CS)401,Numerical Methods,3,Lecture,Computer Lab,
+M401,Mathematics-3,4,Lecture,Lecture Room,
+CS401,Communication Engineering & Coding Theory,3,Lecture,Lecture Room,
+CS402,Formal Language & Automata Theory,4,Lecture,Lecture Room,
+CS403,Computer Architecture,4,Lecture,Lecture Room,
+HU481,Technical Report Writing,3,Lab,Lecture Room,
+M(CS)491,Numerical Methods Lab,3,Lab,Computer Lab,
+CS491,Communication Engineering & Coding Theory Lab,3,Lab,Communication Lab,CS401
+CS492,Software Tools Lab,3,Lab,Computer Lab,
+CS493,Computer Architecture Lab,3,Lab,Hardware Lab,CS403
+HU601,Principles of Management,2,Lecture,Lecture Room,
+CS601,Database Management System,3,Lecture,Lecture Room,
+CS602,Computer Networks,3,Lecture,Lecture Room,
+CS603,Operating System,3,Lecture,Lecture Room,
+CS604B,Computer Graphics,3,Lecture,Lecture Room,
+CS605C,Multimedia Technology,3,Lecture,Lecture Room,
+CS691,Database Management System Lab,3,Lab,Computer Lab,CS601
+CS692,Network Lab,3,Lab,Computer Lab,CS602
+CS693,Operating System Lab,3,Lab,Computer Lab,CS603
