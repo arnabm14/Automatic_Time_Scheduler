@@ -6,7 +6,7 @@ Algorithm used : Greedy Algorithm
 
 The code can be executed in Eclipse and any Java environment and Uses a GUI interface to display the result back to the user based on the data that si provided through the csv files listed above.
 
-=BUILD OUTPUT DESCRIPTION
+# BUILD OUTPUT DESCRIPTION
 
 
 When you build an Java application project that has a main class, the IDE
